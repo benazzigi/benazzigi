@@ -1,7 +1,7 @@
 ## Olá, meu nome é Giovanna Benazzi! 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🛡️ Interessada em **desenvolvimento web** e no uso da programação para criar **soluções visuais e funcionais**
+🛡️ Interessada em **desenvolvimento web** e no uso da programação para criar **soluções visuais e funcionais** <br />
 💻 Focada em aprender e praticar com **Python**, **HTML** e **CSS**  
 🧠 Em constante evolução com algoritmos, lógica de programação e projetos simples
 
