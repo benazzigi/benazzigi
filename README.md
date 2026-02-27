@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🛡️ Interessada em **desenvolvimento web** e no uso da programação para criar **soluções visuais e funcionais** <br />
-💻 Focada em aprender e praticar com **Python**
+💻 Focada em aprender e praticar com **Python** <br />
 🧠 Em constante evolução com algoritmos, lógica de programação e projetos simples
 
 > 🌱 “Cada linha de código é um passo a mais no meu aprendizado.”
